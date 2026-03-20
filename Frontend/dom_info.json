@@ -1,0 +1,354 @@
+{
+  "tag": "DIV",
+  "id": "root",
+  "className": "",
+  "height": 359,
+  "width": 784,
+  "style": {
+    "display": "block",
+    "visibility": "visible",
+    "opacity": "1"
+  },
+  "children": [
+    {
+      "tag": "MAIN",
+      "id": "",
+      "className": "MuiContainer-root MuiContainer-maxWidthXs css-nzinn5-MuiContainer-root",
+      "height": 359,
+      "width": 444,
+      "style": {
+        "display": "block",
+        "visibility": "visible",
+        "opacity": "1"
+      },
+      "children": [
+        {
+          "tag": "DIV",
+          "id": "",
+          "className": "MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation3 css-1kwkpm0-MuiPaper-root",
+          "height": 359,
+          "width": 396,
+          "style": {
+            "display": "block",
+            "visibility": "visible",
+            "opacity": "1"
+          },
+          "children": [
+            {
+              "tag": "H1",
+              "id": "",
+              "className": "MuiTypography-root MuiTypography-h5 MuiTypography-alignCenter css-ph2xsj-MuiTypography-root",
+              "height": 32,
+              "width": 332,
+              "style": {
+                "display": "block",
+                "visibility": "visible",
+                "opacity": "1"
+              },
+              "children": []
+            },
+            {
+              "tag": "FORM",
+              "id": "",
+              "className": "MuiBox-root css-164r41r",
+              "height": 255,
+              "width": 332,
+              "style": {
+                "display": "block",
+                "visibility": "visible",
+                "opacity": "1"
+              },
+              "children": [
+                {
+                  "tag": "DIV",
+                  "id": "",
+                  "className": "MuiFormControl-root MuiFormControl-marginNormal MuiFormControl-fullWidth MuiTextField-root css-17vbkzs-MuiFormControl-root-MuiTextField-root",
+                  "height": 56,
+                  "width": 332,
+                  "style": {
+                    "display": "inline-flex",
+                    "visibility": "visible",
+                    "opacity": "1"
+                  },
+                  "children": [
+                    {
+                      "tag": "LABEL",
+                      "id": "email-label",
+                      "className": "MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiInputLabel-sizeMedium MuiInputLabel-outlined MuiFormLabel-colorPrimary Mui-focused Mui-required MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiInputLabel-sizeMedium MuiInputLabel-outlined css-1jy569b-MuiFormLabel-root-MuiInputLabel-root",
+                      "height": 23,
+                      "width": 114,
+                      "style": {
+                        "display": "block",
+                        "visibility": "visible",
+                        "opacity": "1"
+                      },
+                      "children": [
+                        {
+                          "tag": "SPAN",
+                          "id": "",
+                          "className": "MuiFormLabel-asterisk MuiInputLabel-asterisk css-wgai2y-MuiFormLabel-asterisk",
+                          "height": 17,
+                          "width": 10,
+                          "style": {
+                            "display": "inline",
+                            "visibility": "visible",
+                            "opacity": "1"
+                          },
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "DIV",
+                      "id": "",
+                      "className": "MuiInputBase-root MuiOutlinedInput-root MuiInputBase-colorPrimary MuiInputBase-fullWidth Mui-focused MuiInputBase-formControl css-md26zr-MuiInputBase-root-MuiOutlinedInput-root",
+                      "height": 56,
+                      "width": 332,
+                      "style": {
+                        "display": "flex",
+                        "visibility": "visible",
+                        "opacity": "1"
+                      },
+                      "children": [
+                        {
+                          "tag": "INPUT",
+                          "id": "email",
+                          "className": "MuiInputBase-input MuiOutlinedInput-input css-1t8l2tu-MuiInputBase-input-MuiOutlinedInput-input",
+                          "height": 56,
+                          "width": 332,
+                          "style": {
+                            "display": "block",
+                            "visibility": "visible",
+                            "opacity": "1"
+                          },
+                          "children": []
+                        },
+                        {
+                          "tag": "FIELDSET",
+                          "id": "",
+                          "className": "MuiOutlinedInput-notchedOutline css-r01yff-MuiNotchedOutlined-root-MuiOutlinedInput-notchedOutline",
+                          "height": 61,
+                          "width": 332,
+                          "style": {
+                            "display": "block",
+                            "visibility": "visible",
+                            "opacity": "1"
+                          },
+                          "children": [
+                            {
+                              "tag": "LEGEND",
+                              "id": "",
+                              "className": "css-sl37lx-MuiNotchedOutlined-root",
+                              "height": 11,
+                              "width": 96,
+                              "style": {
+                                "display": "block",
+                                "visibility": "hidden",
+                                "opacity": "1"
+                              },
+                              "children": [
+                                {
+                                  "tag": "SPAN",
+                                  "id": "",
+                                  "className": "",
+                                  "height": 23,
+                                  "width": 96,
+                                  "style": {
+                                    "display": "inline-block",
+                                    "visibility": "visible",
+                                    "opacity": "0"
+                                  },
+                                  "children": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "DIV",
+                  "id": "",
+                  "className": "MuiFormControl-root MuiFormControl-marginNormal MuiFormControl-fullWidth MuiTextField-root css-17vbkzs-MuiFormControl-root-MuiTextField-root",
+                  "height": 56,
+                  "width": 332,
+                  "style": {
+                    "display": "inline-flex",
+                    "visibility": "visible",
+                    "opacity": "1"
+                  },
+                  "children": [
+                    {
+                      "tag": "LABEL",
+                      "id": "password-label",
+                      "className": "MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-sizeMedium MuiInputLabel-outlined MuiFormLabel-colorPrimary Mui-required MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-sizeMedium MuiInputLabel-outlined css-14s5rfu-MuiFormLabel-root-MuiInputLabel-root",
+                      "height": 23,
+                      "width": 81,
+                      "style": {
+                        "display": "block",
+                        "visibility": "visible",
+                        "opacity": "1"
+                      },
+                      "children": [
+                        {
+                          "tag": "SPAN",
+                          "id": "",
+                          "className": "MuiFormLabel-asterisk MuiInputLabel-asterisk css-wgai2y-MuiFormLabel-asterisk",
+                          "height": 17,
+                          "width": 10,
+                          "style": {
+                            "display": "inline",
+                            "visibility": "visible",
+                            "opacity": "1"
+                          },
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "DIV",
+                      "id": "",
+                      "className": "MuiInputBase-root MuiOutlinedInput-root MuiInputBase-colorPrimary MuiInputBase-fullWidth MuiInputBase-formControl css-md26zr-MuiInputBase-root-MuiOutlinedInput-root",
+                      "height": 56,
+                      "width": 332,
+                      "style": {
+                        "display": "flex",
+                        "visibility": "visible",
+                        "opacity": "1"
+                      },
+                      "children": [
+                        {
+                          "tag": "INPUT",
+                          "id": "password",
+                          "className": "MuiInputBase-input MuiOutlinedInput-input css-1t8l2tu-MuiInputBase-input-MuiOutlinedInput-input",
+                          "height": 56,
+                          "width": 332,
+                          "style": {
+                            "display": "block",
+                            "visibility": "visible",
+                            "opacity": "1"
+                          },
+                          "children": []
+                        },
+                        {
+                          "tag": "FIELDSET",
+                          "id": "",
+                          "className": "MuiOutlinedInput-notchedOutline css-r01yff-MuiNotchedOutlined-root-MuiOutlinedInput-notchedOutline",
+                          "height": 61,
+                          "width": 332,
+                          "style": {
+                            "display": "block",
+                            "visibility": "visible",
+                            "opacity": "1"
+                          },
+                          "children": [
+                            {
+                              "tag": "LEGEND",
+                              "id": "",
+                              "className": "css-njhac4-MuiNotchedOutlined-root",
+                              "height": 11,
+                              "width": 0,
+                              "style": {
+                                "display": "block",
+                                "visibility": "hidden",
+                                "opacity": "1"
+                              },
+                              "children": [
+                                {
+                                  "tag": "SPAN",
+                                  "id": "",
+                                  "className": "",
+                                  "height": 23,
+                                  "width": 71,
+                                  "style": {
+                                    "display": "inline-block",
+                                    "visibility": "visible",
+                                    "opacity": "0"
+                                  },
+                                  "children": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "BUTTON",
+                  "id": "",
+                  "className": "MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary MuiButton-fullWidth MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary MuiButton-fullWidth css-1vhaqj4-MuiButtonBase-root-MuiButton-root",
+                  "height": 37,
+                  "width": 332,
+                  "style": {
+                    "display": "inline-flex",
+                    "visibility": "visible",
+                    "opacity": "1"
+                  },
+                  "children": [
+                    {
+                      "tag": "SPAN",
+                      "id": "",
+                      "className": "MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root",
+                      "height": 37,
+                      "width": 332,
+                      "style": {
+                        "display": "block",
+                        "visibility": "visible",
+                        "opacity": "1"
+                      },
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "tag": "DIV",
+                  "id": "",
+                  "className": "MuiBox-root css-gg4vpm",
+                  "height": 18,
+                  "width": 332,
+                  "style": {
+                    "display": "flex",
+                    "visibility": "visible",
+                    "opacity": "1"
+                  },
+                  "children": [
+                    {
+                      "tag": "A",
+                      "id": "",
+                      "className": "",
+                      "height": 18,
+                      "width": 206,
+                      "style": {
+                        "display": "block",
+                        "visibility": "visible",
+                        "opacity": "1"
+                      },
+                      "children": []
+                    },
+                    {
+                      "tag": "A",
+                      "id": "",
+                      "className": "",
+                      "height": 18,
+                      "width": 114,
+                      "style": {
+                        "display": "block",
+                        "visibility": "visible",
+                        "opacity": "1"
+                      },
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
